@@ -1,1 +1,5 @@
-This is a project created using R in RStudio which is focused on the following question: “How did covid-19 affect our daily lives?”
+How did COVID-19 affect our daily lives?
+
+Exploring the effects of COVID-19 on transportation.
+
+Made in R using RStudio.
